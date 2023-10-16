@@ -3,3 +3,5 @@
 Random AFK bot I made for minecraft servers. Mostly for server hosts like aternos that stops after a given time
 
 * **Might not work**
+
+*This is a copy of a previous repo I had.*
