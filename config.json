@@ -1,0 +1,6 @@
+{
+	"ip":"ServerIP",
+	"port": "ServerPort",
+	"name": "Name",
+	"auto-night-skip":"true"
+}
